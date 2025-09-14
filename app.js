@@ -14,9 +14,12 @@ function divisionNumber(x, y) {
   console.log(`${x} / ${y} = ${x / y}`);
 }
 
-function averageNumber() {}
+// averageNumber();
 
-addNumber(1, 2);
-subtractNumber(5, 3);
-multiplyNumber(5, 3);
-divisionNumber(10, 2);
+// get number to be aveerage
+// add all the number
+// divided by the number
+// display the output
+
+const userName = prompt("Please enter your name:");
+console.log("Hello, " + userName + "!");

@@ -22,7 +22,7 @@ function divisionNumber(x, y) {
 // display the output
 
 function average(a, b) {
-  console.log(`Average is: ${a + b / 2}`);
+  console.log(`Average is: ${(a + b) / 2}`);
 }
 
 const userName = prompt("Please enter your name:");

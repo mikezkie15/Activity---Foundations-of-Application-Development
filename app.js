@@ -21,5 +21,9 @@ function divisionNumber(x, y) {
 // divided by the number
 // display the output
 
+function average(a, b) {
+  console.log(`Average is: ${a + b / 2}`);
+}
+
 const userName = prompt("Please enter your name:");
 console.log("Hello, " + userName + "!");
